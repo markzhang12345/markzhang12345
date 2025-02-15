@@ -13,7 +13,12 @@
 </p>
 
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=markzhang12345&locale=zh_Hans" alt="GitHub Streak" /></a>
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=markzhang12345&theme=default&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="Profile Stats" title="Profile Stats" />
+    <img width="400" src="https://github-readme-streak-stats-xiaokang2022.vercel.app?user=markzhang12345&theme=default&hide_border=true" alt="Streak Stats" title="Streak Stats" />
+</p>
+
+<p align="center">
+    <img width="400" src="./youzhu.jpg" />
 </p>
 <!--
 **markzhang12345/markzhang12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
