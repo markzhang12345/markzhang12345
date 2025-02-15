@@ -1,7 +1,7 @@
-## Hi there 👋
-![](http://antzuhl.cn:4000/get/@markzhang12345.readme)
-
-
+<p align="center">
+    <!-- https://github.com/kyechan99/capsule-render -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=😋&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
+</p>
 <!--
 **markzhang12345/markzhang12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
