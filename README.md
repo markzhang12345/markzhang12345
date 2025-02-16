@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <a href="https://www-blog.u2330056.nyat.app:49191/">欢迎去我的主页看看</a>
+    <a href="http://60.205.131.158/">欢迎去我的主页看看</a>
 </p>
 
 <p align="center">
