@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <a href="http://60.205.131.158/">欢迎去我的主页看看</a>
+    <a href="kpmark.icu">欢迎去我的主页看看</a>
 </p>
 
 <p align="center">
