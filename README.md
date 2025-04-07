@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markzhang12345&layout=compact&langs_count=4&hide=C,HTML,Assembly&exclude_repo=The-end-war" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markzhang12345&layout=compact&langs_count=4&hide=CSS,HTML,Assembly&exclude_repo=The-end-war" />
 </p>
 
 <p align="center">
