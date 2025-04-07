@@ -14,6 +14,10 @@
 </p>
 
 <p align="center">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawningW&layout=compact&langs_count=4&hide=C,HTML,Assembly&exclude_repo=The-end-war" />
+</p>
+
+<p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
     <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=go,py,c,cpp,html,css,js,ts,linux,ubuntu,debian,raspberrypi,md,latex,matlab&titles=true" alt="Skill Icons" title="Skill Icons">
 </p>
