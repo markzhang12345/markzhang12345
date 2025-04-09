@@ -19,7 +19,7 @@
 
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=go,py,c,cpp,kotlin,js,ts,tauri,react,vue,express,gin,linux,raspberrypi,latex,matlab&titles=true" alt="Skill Icons" title="Skill Icons">
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=go,py,c,cpp,kotlin,js,ts,tauri,react,vue,express,gin,linux,latex,matlab&titles=true" alt="Skill Icons" title="Skill Icons">
 </p>
 
 <p align="center">
