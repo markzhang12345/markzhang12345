@@ -1,12 +1,3 @@
-<p align="center">
-    <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;欢迎来到我的 GitHub 主页！" alt="Hello World" title="Hello World"/>
-</p>
-
-
-<p align="center">
-    <a href="https://kpmark.icu">主页</a>
-</p>
 
 <p align="center">
    <img  width="400" src="https://github-readme-stats.vercel.app/api?username=markzhang12345&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
